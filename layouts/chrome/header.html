@@ -1,0 +1,51 @@
+<header id="header">
+
+    <nav class="nav-container group" id="nav-topbar">
+        <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+        <div class="nav-text"><!-- put your mobile menu text here --></div>
+        <div class="nav-wrap container">
+            <ul id="menu-default-menu" class="nav container-inner group">
+                {{ range .Site.Params.Categories }}
+                <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                    <a href="categories/{{ . | urlize | lower }}">{{ . }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <div class="container">
+            <div class="container-inner">
+                <div class="toggle-search"><i class="fa fa-search"></i></div>
+                <div class="search-expand">
+                    <div class="search-expand-inner">
+                        <form method="get" class="searchform themeform" action="https://www.google.com/search">
+                            <div>
+                                <input type="text" class="search" name="q" onblur="if(this.value=='')this.value='Zum Suchen tippen und Return drücken';"
+                                       onfocus="if(this.value=='Zum Suchen tippen und Return drücken')this.value='';" value="Zum Suchen tippen und Return drücken"/>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!--/.container-inner-->
+        </div>
+        <!--/.container-->
+
+    </nav>
+    <!--/#nav-topbar-->
+
+    <div class="container group">
+        <div class="container-inner">
+
+            <div class="group pad">
+                <p class="site-title">
+                    <a class="navbar-brand" href="{{ .Site.BaseUrl }}" rel="home">{{ .Site.Title }}</a>
+                </p>
+            </div>
+        </div>
+        <!--/.container-inner-->
+    </div>
+    <!--/.container-->
+
+</header>
+<!--/#header-->

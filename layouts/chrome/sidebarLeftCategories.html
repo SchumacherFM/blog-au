@@ -1,0 +1,53 @@
+<div class="sidebar s1">
+
+    <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+
+    <div class="sidebar-content">
+
+        <div class="sidebar-top group">
+            <p>Follow:</p>
+            {{ template "chrome/social-links.html" . }}
+        </div>
+
+        <div class="widget widget_recent_entries sidebarLeftCategories"><h3>Die letzten Beiträge</h3>
+            <ul>
+                {{range first .Site.Params.SidebarRecentLimit .Site.Recent}}
+                <li><a href="{{ lower .Permalink}}">{{.Title}}</a></li>
+                {{end}}
+            </ul>
+        </div>
+
+        <div id="search-2" class="widget widget_search"><h3>Suchen</h3>
+
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+                <div>
+                    <input type="text" class="search" name="q" onblur="if(this.value=='')this.value='Zum Suchen tippen und Return drücken';"
+                           onfocus="if(this.value=='Zum Suchen tippen und Return drücken')this.value='';" value="Zum Suchen tippen und Return drücken">
+                </div>
+            </form>
+        </div>
+
+        <div class="widget widget_archive"><h3>Archiv</h3>
+            {{ range first 5 (.Data.Pages.GroupByDate "2006-01" "desc") }}
+            <h4>{{ .Key }}</h4>
+            <ul>
+                {{ range .Pages }}
+                <li>
+                    <a href="{{ lower .Permalink }}">{{ .Title }}</a> {{ .Date.Format "2 Jan" }}
+                </li>
+                {{ end }}
+            </ul>
+            {{ end }}
+        </div>
+
+        <div class="widget widget_meta"><h3>Meta</h3>
+            <ul>
+                <li>
+                    <a href="http://feeds.feedburner.com/SchumacherFmBlog" title="Syndicate this site using RSS 2.0">Beiträge
+                        <abbr title="Really Simple Syndication">RSS</abbr></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--/.sidebar-content-->
+</div>

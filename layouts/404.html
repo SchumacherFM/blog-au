@@ -1,0 +1,31 @@
+{{ template "chrome/head.html" . }}
+<body class="archive category col-3cm full-width topbar-enabled chrome">
+
+<div id="wrapper">
+  {{ template "chrome/header.html" . }}
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="pad group" style="width:560px; margin:0 auto;">
+
+              <h1>Seite nicht gefunden / Post or Page not found - Error 404 :-(</h1>
+
+              <iframe width="560" height="315"
+                      src="//www.youtube.com/embed/I9U6fq_5C4w?autoplay=1&rel=0"
+                      frameborder="0" allowfullscreen></iframe>
+
+            </div>
+
+          </section>
+          {{ template "chrome/sidebarLeftCategories.html" . }}
+          {{ template "chrome/sidebarRight.html" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ template "chrome/footer.copyright.html" . }}
+</div>
+{{ template "chrome/footer.html" . }}

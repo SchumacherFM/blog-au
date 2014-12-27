@@ -1,0 +1,76 @@
+{{if .Prev }}<link rel='prev' href='{{ .Prev }}'/>{{end}}
+        <link rel='next' href='{{ .Next }}'/>
+
+
+
+<!--sidebar start-->
+<aside>
+    <div id="sidebar"  class="nav-collapse ">
+        <!-- sidebar menu start-->
+        <ul class="sidebar-menu">
+          {{ $currentNode := . }}
+          {{ range .Site.Menus.main }}
+              {{ if .HasChildren }}
+
+            <li class="sub-menu{{if $currentNode.HasMenuCurrent "main" . }} active{{end}}">
+            <a href="javascript:;" class="">
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+                <span class="menu-arrow arrow_carrot-right"></span>
+            </a>
+            <ul class="sub">
+                {{ range .Children }}
+                <li{{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.Url}}"> {{ .Name }} </a> </li>
+                {{ end }}
+            </ul>
+          {{else}}
+            <li>
+            <a class="" href="{{.Url}}">
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+            </a>
+          {{end}}
+          </li>
+          {{end}}
+
+        </ul>
+        <!-- sidebar menu end-->
+    </div>
+</aside>
+<!--sidebar end-->
+
+
+
+SINGLE
+
+
+
+    <div class="row">
+
+
+        <!-- Sidebar -->
+        <div class="col-md-3">
+            <div class="well well-sm"> <!-- Post-specific stats -->
+
+                <strong>Categories</strong>
+                <ul class="list-unstyled">
+                    {{ range .Params.categories }}
+                    <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+                    {{ end }}
+                </ul>
+                <hr>
+                <strong>Tags</strong><br>
+                {{ range .Params.tags }}<a class="label label-default" href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}
+                <hr>
+                <div>
+                    {{ if .Prev }}
+                    <a class="previous" href="{{.Prev.Permalink}}"> {{.Prev.Title}}</a>
+                    {{ end }}
+                    {{ if .Next }}
+                    <a class="next" href="{{.Next.Permalink}}"> {{.Next.Title}}</a>
+                    {{ end }}
+                </div>
+            </div>
+            {{ template "chrome/menu.html" . }}
+        </div>
+    </div>

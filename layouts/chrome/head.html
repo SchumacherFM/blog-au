@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <base href="{{ .Site.BaseUrl }}/">
+    {{ template "chrome/head.pace.html" . }}
+    <title>{{ .Title }} - {{ .Site.BaseUrl }}</title>
+    {{ template "chrome/head.meta.html" . }}
+
+    <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+    <style type="text/css">
+        .google_map div img {
+            max-width : none !important;
+        }
+    </style>
+
+    <link rel="canonical" href="{{ .Permalink}}">
+    <link rel='shortlink' href='{{ .Permalink}}'/>
+    <link rel="shortcut icon" href="assets/schumacher.png"/>
+    {{ template "chrome/head.includes.html" . }}
+</head>

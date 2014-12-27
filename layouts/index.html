@@ -1,0 +1,42 @@
+{{ template "chrome/head.html" . }}
+<body class="archive category col-3cm full-width topbar-enabled chrome">
+
+<div id="wrapper">
+    {{ template "chrome/header.html" . }}
+
+    <div class="container" id="page">
+        <div class="container-inner">
+            <div class="main">
+                <div class="main-inner group">
+                    <section class="content">
+                        <div class="pad group">
+                            {{ range first 1 .Data.Pages }}
+                                {{ template "featured.html" . }}
+                            {{end}}
+                            <div class="post-list group">
+                                {{ range $index,$data := first 7 .Data.Pages }}
+                                    {{if gt $index 0}}
+                                        {{ if mod $index 2 | eq 1 }}
+                                        <div class="post-row">{{end}}
+                                            {{ template "indexes/categoryItem.html" $data }}
+                                            {{ if mod $index 2 | eq 0 }}
+                                        </div>
+                                        {{end}}
+                                    {{end}}
+                                {{end}}
+                            </div>
+
+                            <!--pagination-->
+
+                        </div>
+
+                    </section>
+                    {{ template "chrome/sidebarLeftCategories.html" . }}
+                    {{ template "chrome/sidebarRight.html" . }}
+                </div>
+            </div>
+        </div>
+    </div>
+    {{ template "chrome/footer.copyright.html" . }}
+</div>
+{{ template "chrome/footer.html" . }}

@@ -1,0 +1,32 @@
+<div class="google_map" id='google_map_{{ .Get "id" }}'></div>
+
+<script type="text/javascript">
+    (function (w) {
+        var ready = function () {
+            var gps = '{{.Get "gps"}}'.split(','); // Lat,Lng
+            var lat = parseFloat(gps[0]);
+            var lng = parseFloat(gps[1]);
+            pn_gmt_init_map(
+                    lat,
+                    lng,
+                    'google_map_{{.Get "id"}}', // map_canvas_id
+                    15, // zoom
+                    "ROADMAP",  // maptype
+                    '{{.Get "info"}}', // info
+                    "1",    //show_marker
+                    "1",    //show_popup
+                    "0",    // scrollwheel
+                    {},     // custom_controls
+                    "0"     // marker_is_draggable
+            );
+        };
+        if (window.addEventListener) {
+            window.addEventListener('load', ready, false)
+        } else {
+            if (window.attachEvent) {
+                window.attachEvent('onload', ready)
+            }
+        }
+    })(window);
+
+</script>

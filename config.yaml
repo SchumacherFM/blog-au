@@ -1,0 +1,29 @@
+title: "schumacher.fm/blog"
+description: 'Livin&#039; in a land down under'
+languageCode: "en-us"
+disqusShortname: "schumacherfmblog"
+copyright: "Copyright (c) 2008 - 2014, The authors of Schumacher.fm; all rights reserved."
+MetaDataFormat: "yaml"
+canonifyurls: true
+builddrafts: false
+permalinks:
+  posts: /:year/:month/:day/:title/
+Taxonomies:
+  tag: "tags"
+  category: "categories"
+params:
+  CopyrightHTML: "Copyright &#xA9; 2013-2014 Cyrill & Julia Schumacher. All Rights Reserved."
+  GitHubUser: "schumacherfm"
+  SidebarRecentLimit: 5
+  Categories:
+    - "Australien"
+    - "Neuseeland"
+    - "Ueber uns"
+images:
+  - 480x
+  - 768x
+  - 960x
+  - 1024x
+  - 1920x
+  - 720x340
+  - 520x245
