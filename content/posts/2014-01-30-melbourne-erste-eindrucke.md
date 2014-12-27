@@ -1,5 +1,5 @@
 ---
-title: "Melbourne & Der erste Eindruck"
+title: "Melbourne - Der erste Eindruck"
 author: Julia
 date: 2014-01-29
 disqus_identifier: /2014/01/30/melbourne-erste-eindrucke/

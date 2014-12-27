@@ -1,10 +1,12 @@
 ---
 title: Impressum
 author: Julia
+date: 2013-06-01
+disqus_identifier: about-us
 categories:
   - "Ueber uns"
-disqus_identifier: about-us
 
+hero: 2014/12/IMG_1120
 ---
 
 Cyrill & Julia Schumacher

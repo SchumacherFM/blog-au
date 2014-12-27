@@ -1,6 +1,7 @@
 ---
 title: Ueber uns
 author: Julia
+date: 2013-06-01
 categories:
   - "Ueber uns"
 disqus_identifier: about-us

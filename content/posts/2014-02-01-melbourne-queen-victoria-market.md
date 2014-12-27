@@ -1,5 +1,5 @@
 ---
-title: "Melbourne & Queen Victoria Market"
+title: "Melbourne - Queen Victoria Market"
 author: Cyrill
 date: 2014-02-01
 disqus_identifier: /2014/02/01/melbourne-queen-victoria-market/
