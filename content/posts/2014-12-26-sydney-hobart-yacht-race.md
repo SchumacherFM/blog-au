@@ -11,7 +11,7 @@ tags:
 hero: 2014/12yachtrace/IMG_1142
 ---
 
-Jedes Jahr am 2. Weihnachtsfeiertag, australisch "Boxing Day", findet das "Sydney to Hobart Yacht Race" statt. Es gilt als eines der anspruchsvollsten Jacht-Rennen der Welt.<!--more--> 117 Segeljachten haben sich in diesem Jahr auf die knapp 1200 km lange Strecke gewagt, die man auf dieser Karte sehen kann (Quelle: Wikipedia):
+Jedes Jahr am Zweiten Weihnachtsfeiertag, australisch "Boxing Day", findet das "Sydney to Hobart Yacht Race" statt. Es gilt als eines der anspruchsvollsten Jacht-Rennen der Welt.<!--more--> 117 Segeljachten haben sich in diesem Jahr auf die knapp 1200 km lange Strecke gewagt, die man auf dieser Karte sehen kann (Quelle: Wikipedia):
 
 {{% img "2014/12yachtrace/IMG_1136" %}}
 
@@ -27,5 +27,5 @@ Von Watsons Bay aus haben wir den Jachten zugesehen wie sie den sicheren Hafen v
 {{% img "2014/12yachtrace/IMG_1169" %}}
 {{% img "2014/12yachtrace/IMG_1872" %}}
 
-P.S.: Es ist umstritten, wie der Ausdruck "Boxing Day" als Bezeichnung des zweiten Weihnachtsfeiertages entstanden ist. Üblich ist der Begriff außerhalb Australiens auch in Großbritannien und anderen ehemaligen Britischen Kolonien. Die offizielle Erklärung des Oxford English Dictionary lautet, dass traditionell am ersten Arbeitstag nach Weihnachten die Postboten, Müllmänner, Busfahrer, und anderen Menschen im Dienst der Öffentlichkeit, ein kleines Weihnachtspaket - englisch  "Christmas Box" erhalten haben.
+P.S.: Es ist umstritten, wie der Ausdruck "Boxing Day" als Bezeichnung des Zweiten Weihnachtsfeiertages entstanden ist. Üblich ist der Begriff außerhalb Australiens auch in Großbritannien und anderen ehemaligen Britischen Kolonien. Die offizielle Erklärung des Oxford English Dictionary lautet, dass traditionell am ersten Arbeitstag nach Weihnachten die Postboten, Müllmänner, Busfahrer, und anderen Menschen im Dienst der Öffentlichkeit, ein kleines Weihnachtspaket - englisch  "Christmas Box" erhalten haben.
 
