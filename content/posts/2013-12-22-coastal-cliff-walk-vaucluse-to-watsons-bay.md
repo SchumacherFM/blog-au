@@ -1,5 +1,5 @@
 ---
-title: 'Coastal Cliff Walk & Vaucluse to Watsons Bay'
+title: 'Coastal Cliff Walk - Vaucluse to Watsons Bay'
 author: Julia
 date: 2013-12-22
 disqus_identifier: /2013/12/22/coastal-cliff-walk-vaucluse-to-watsons-bay/
