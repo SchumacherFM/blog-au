@@ -18,3 +18,4 @@ Sydney Australien gezogen.
 
 In unserem Blog berichten wir Freunden, Familie und allen anderen Interessierten über unsere Erlebnisse und Erfahrungen im Land der Kängurus und Koalabären.
 Wir möchten Euch zeigen wie unglaublich bereichernd so ein Auslandsaufenthalt sein kann und wie viele wunderschöne Facetten der rote Kontinent zu bieten hat.
+/Users/juliaschumacher/Desktop/Bewerbung_MietwohnungV2.pdf
