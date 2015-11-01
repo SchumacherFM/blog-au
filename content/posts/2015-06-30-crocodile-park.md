@@ -9,7 +9,7 @@ tags:
   - Urlaub
   - Park
  
-hero: 2015/06/TheGrounds/IMG_2674
+hero: 2015/06/CrocodilePark/
 ---
 
 Vor unserer Rückreise nach Deutschland wollten wir unbedingt noch ein bisschen durch Australien reisen, um so viel wie möglich von diesem riesengroßen und vielfältigen Kontinenten kennenzulernen. Nach einer kleinen Abschiedsfeier mit Freunden am Freitagabend bei Sushi und anschließendem "Absacker" im Baxter Inn, haben wir am Samstag noch die allerletzten Koffer zusammengepackt und ein letztes Mal in unserem Lieblingsrestaurant "Home Thai" zu Abend gegessen. Am Sonntagmorgen vor der offiziellen Wohnungsübergabe haben wir uns ein letztes Frühstück im Tuckshop gegönnt. Das kleine Cafe direkt um die Ecke war in den letzten 1.5 Jahre unser absolutes Lieblingscafe gewesen. Als der Kellner hörte, dass dies unser allerletzter Besuch im Tuckshop sein würde, haben wir sogar noch ein Stück hausgemachten Kuchen und eine herzliche Verabschiedung bekommen, die uns richtig wehmütig werden lies.
