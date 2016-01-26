@@ -1,22 +1,49 @@
 ---
-title: Hartley's Crocodile Adventures
+title: The Grounds of Alexandria
 author: Julia
-date: 2015-06-30
-disqus_identifier: /2015/06/30/crocodilepark
+date: 2015-05-13
+disqus_identifier: /2015/06/13/thegrounds
 categories:
   - Australien
 tags:
-  - Urlaub
-  - Park
- 
+  - Sydney
+  - Ausflug
+  - Cafe
+  - Restaurant
+  - Market
 hero: 2015/06/TheGrounds/IMG_2674
 ---
 
-Vor unserer Rückreise nach Deutschland wollten wir unbedingt noch ein bisschen durch Australien reisen, um so viel wie möglich von diesem riesengroßen und vielfältigen Kontinenten kennenzulernen. Nach einer kleinen Abschiedsfeier mit Freunden am Freitagabend bei Sushi und anschließendem "Absacker" im Baxter Inn, haben wir am Samstag noch die allerletzten Koffer zusammengepackt und ein letztes Mal in unserem Lieblingsrestaurant "Home Thai" zu Abend gegessen. Am Sonntagmorgen vor der offiziellen Wohnungsübergabe haben wir uns ein letztes Frühstück im Tuckshop gegönnt. Das kleine Cafe direkt um die Ecke war in den letzten 1.5 Jahre unser absolutes Lieblingscafe gewesen. Als der Kellner hörte, dass dies unser allerletzter Besuch im Tuckshop sein würde, haben wir sogar noch ein Stück hausgemachten Kuchen und eine herzliche Verabschiedung bekommen, die uns richtig wehmütig werden lies.
+Zum Start in eines unserer letzten Wochenenden in Sydney haben wir uns ein gemütliches Frühstück in ["The Grounds of Alexandria"](http://thegrounds.com.au/) gegönnt. Leider sind wir erst vor wenigen Wochen auf diesen wunderschönen Ort aufmerksam geworden, sonst wären wir schon viel früher hergekommen.<!--more-->  In mitten einer wahren Pflanzenoase kann mir hier Kaffee aus der hauseigenen Rösterei probieren, lecker frühstücken, oder über den kleinen Markt schlendern.
 
-Schließlich ging es dann aber doch endlich auf zum Flughafen, wo uns der Flieger ins ca. 2500 km nördlich gelegene Cairns  am Great Barrier Reef brachte. Nach einer Übernachtung im Hotel haben wir am Montagmorgen unseren Campervan in Empfang genommen, der für die nächsten 4 Wochen unser zu Hause sein würde. Das erste Highlight unserer Reise war der Besuch des Krokodilparks "Hartley's Crocodile Adventures" ca. 40 km nördlich von Cairns. 
+Ein weiteres Highlight, vor allem für Kinder, ist der dazugehörige Streichelzoo mit Ponys, Ziegen, Hühnern, und dem wohl berühmtesten Bewohner: Kevin Bacon. Hierbei handelt es sich nicht etwa um den bekannten Amerikanischen Schauspieler, sondern um ein Schwein. Kevin Bacon hat im Oktober 2013 Berühmtheit erlangt, als er gemeinsam mit seinem Kollegen Bradley dem Schaf, in einer Nacht- und Nebel-Aktion aus dem Streichelzoo in Alexandria gekidnappt wurde. Drei Wochen später wurden die beiden in Victoria (über 600 km entfernt!!) wieder aufgefunden. Meinen Recherchen zu Folge wurden die Kidnapper bis heute nicht gefasst. Kevin Bacon ist jedoch mittlerweile wieder sicher in seinem kleinen Haus im Kleintiergehege untergebracht und erfreut sich augenscheinlich bester Zufriedenheit. :-)
 
-Der Park ist wirklich wunderschön gemacht und die 36 Dollar Eintritt pro Person auf jeden Fall wert. Neben einer Bootsfahrt über einen See voller Krokodile, standen verschiedene Shows mit Krokodilen und Schlangen auf dem Programm, die sehr unterhaltsam waren. Obwohl wir normalerweise von solchen Tiershows nicht allzu begeistert sind, hat es uns sehr gut gefallen. Die Tiere machten alle einen sehr gesunden und glücklichen Eindruck, und die Tierpfleger schienen ihre Arbeit im Umgang mit den Reptilien zu verstehen.
+{{% img "2015/06/TheGrounds/IMG_2674" %}}
+{{% img "2015/06/TheGrounds/IMG_2677" %}}
+{{% img "2015/06/TheGrounds/IMG_2678" %}}
+{{% img "2015/06/TheGrounds/IMG_2761" %}}
 
- 
+Streichelzoo:
+{{% img "2015/06/TheGrounds/IMG_2675" %}}
+{{% img "2015/06/TheGrounds/IMG_2687" %}}
+{{% img "2015/06/TheGrounds/IMG_2690" %}}
+{{% img "2015/06/TheGrounds/IMG_2739" %}}
 
+Der berühmte Kevin Bacon (im Vordergrund ;-)):
+{{% img "2015/06/TheGrounds/IMG_2748" %}}
+
+Market:
+{{% img "2015/06/TheGrounds/IMG_2695" %}}
+{{% img "2015/06/TheGrounds/IMG_2752" %}}
+{{% img "2015/06/TheGrounds/IMG_2753" %}}
+{{% img "2015/06/TheGrounds/IMG_2676" %}}
+
+Leckeres Frühstück:
+{{% img "2015/06/TheGrounds/IMG_2749" %}}
+{{% img "2015/06/TheGrounds/IMG_2750" %}}
+{{% img "2015/06/TheGrounds/IMG_2679" %}}
+{{% img "2015/06/TheGrounds/IMG_2738" %}}
+
+
+Ein etwas anderer Geldautomat:
+{{% img "2015/06/TheGrounds/IMG_2754" %}}
