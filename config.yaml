@@ -1,8 +1,8 @@
-title: "schumacher.fm/blog"
+title: "schumacher.fm"
 description: 'Livin&#039; in a land down under'
-languageCode: "en-us"
+languageCode: "de-DE"
 disqusShortname: "schumacherfmblog"
-copyright: "Copyright (c) 2008 - 2014, The authors of Schumacher.fm; all rights reserved."
+copyright: "Copyright (c) 2013 - 2015, The authors of Schumacher.fm; all rights reserved."
 MetaDataFormat: "yaml"
 canonifyurls: true
 builddrafts: false
@@ -14,7 +14,7 @@ Taxonomies:
   tag: "tags"
   category: "categories"
 params:
-  CopyrightHTML: "Copyright &#xA9; 2013-2014 Cyrill & Julia Schumacher. All Rights Reserved."
+  CopyrightHTML: "Copyright &#xA9; 2013-2015 Cyrill & Julia Schumacher. All Rights Reserved."
   GitHubUser: "schumacherfm"
   SidebarRecentLimit: 5
   Categories:

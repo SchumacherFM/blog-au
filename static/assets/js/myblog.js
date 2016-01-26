@@ -41,7 +41,7 @@
           var target = event.currentTarget || event.target;
           var $form = w.jQuery(target);
           var orgVal = $form.find('.search').val();
-          $form.find('.search').val('site:www.schumacher.fm/blog/ ' + orgVal);
+          $form.find('.search').val('site:schumacher.fm/ ' + orgVal);
           done = true;
           $form.submit();
         }
