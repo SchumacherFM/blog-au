@@ -4,5 +4,6 @@ mkdir public
 ./hugo -v --baseUrl="https://schumacher.fm/"
 git ca -m 'Create Production version'
 git push
+cp -R static/.well-known public/
 ./syncFolders-push.sh
 echo "Done!"
