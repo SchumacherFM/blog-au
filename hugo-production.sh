@@ -5,5 +5,6 @@ mkdir public
 git ca -m 'Create Production version'
 git push
 cp -R static/.well-known public/
+ln -s ../piwik public/piwik
 ./syncFolders-push.sh
 echo "Done!"
