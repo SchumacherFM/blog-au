@@ -27,7 +27,7 @@
                                     <h1 class="post-title">{{ .Title }}</h1>
 
                                     <p class="post-byline">
-                                        von {{ .GetParam "author" }} · {{ .Date.Format "2 January 2006" }} · {{ .WordCount }} Wörter ·
+                                        von {{ .Param "author" }} · {{ .Date.Format "2 January 2006" }} · {{ .WordCount }} Wörter ·
                                         ~{{ .ReadingTime}}min Lesezeit
                                     </p>
 

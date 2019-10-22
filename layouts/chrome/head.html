@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en-US">
 <head>
-    <base href="{{ .Site.BaseUrl }}/">
+    <base href="{{ .Site.BaseURL }}/">
     {{ template "chrome/head.pace.html" . }}
-    <title>{{ .Title }} - {{ .Site.BaseUrl }}</title>
+    <title>{{ .Title }} - {{ .Site.BaseURL }}</title>
     {{ template "chrome/head.meta.html" . }}
 
     <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>

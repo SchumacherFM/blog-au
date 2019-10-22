@@ -11,7 +11,7 @@
 
         <div class="widget widget_recent_entries sidebarLeftCategories"><h3>Die letzten Beiträge</h3>
             <ul>
-                {{range first .Site.Params.SidebarRecentLimit .Site.Recent}}
+                {{range first .Site.Params.SidebarRecentLimit .Site.Pages}}
                 <li><a href="{{ lower .Permalink}}">{{.Title}}</a></li>
                 {{end}}
             </ul>
