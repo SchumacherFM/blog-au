@@ -11,7 +11,7 @@
                     <section class="content">
                         <div class="pad group">
                           {{ if eq .Paginator.PageNumber 1 }}
-                            {{ range first 1 .Data.Pages }}
+                            {{ range first 1 .Site.RegularPages }}
                                 {{ template "featured.html" . }}
                             {{end}}
                           {{end}}
